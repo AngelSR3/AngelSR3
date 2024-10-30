@@ -1,4 +1,4 @@
-<img src="https://imgur.com/EPSLytQ" alt="">
+<img src="https://imgur.com/gallery/banner-ad-aLEzVX6" alt="">
 
 ## Hi 🧑🏻‍💻, I'm Angel Simanca
 A passionate Backend developer from Colombia
