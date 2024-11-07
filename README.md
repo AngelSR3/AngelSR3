@@ -13,6 +13,11 @@ A passionate Backend developer from Colombia
 - Java
 - MySQL
 - Spring Boot
+- PHP
+- Django
+- MongoDB
+- Node.js
+- React
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
