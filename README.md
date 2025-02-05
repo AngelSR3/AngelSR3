@@ -18,6 +18,7 @@ A passionate Backend developer from Colombia
 - MongoDB
 - Node.js
 - React
+- SQL server
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
